@@ -1,2 +1,2 @@
-# grandverse.github.io
-A teaser website for Grandverse
+# Grandverse
+Welcome to Grandverse! A new Miiverse clone to be for all ages.
